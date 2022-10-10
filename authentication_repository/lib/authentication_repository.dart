@@ -1,4 +1,4 @@
-library authentication;
+library authentication_repository;
 
 /// A Calculator.
 class Calculator {
